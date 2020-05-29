@@ -11,7 +11,5 @@ cl4393@nyu.edu
 Advisor
 Vladimir Tsifrinovich, vtsifrin@nyu.edu
 
-Generalization of the single qubit teleportational protocol.
-An implementatation for the teleportation of a two qubit system in a single basis state and a superpostion of all basis states is given. 
-The quantum circuit and measurement histogram for the teleportation of a system in a superpostion of all basis states is included. 
+Generalization of the single qubit teleportational protocol. An implementatation for the teleportation of a two qubit system in a single basis state and a superpostion of all basis states is given. The quantum circuit and measurement histogram for the teleportation of a system in a superpostion of all basis states is included. 
 
