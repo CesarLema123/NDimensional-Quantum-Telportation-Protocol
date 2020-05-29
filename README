@@ -1,4 +1,18 @@
 PH-UY 3801 GUIDED STUDIES IN PHYSICS: 
 Quantum Teleportation using Qiskit
-
 Spring2020
+ 
+Cesar Lema 
+Department of Physics
+New York University 
+New York, NY 10003 
+cl4393@nyu.edu
+
+Advisor
+Vladimir Tsifrinovich
+vtsifrin@nyu.edu
+
+The generalization of the single qubit teleportational protocol is given.
+An implementatation for the teleportation of a two qubit system in a single basis state and a superpostion of all basis states is given. 
+The quantum circuit and measurement histogram for the teleportation of a system in a superpostion of all basis states. 
+
